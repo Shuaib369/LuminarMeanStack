@@ -1,0 +1,22 @@
+.A {
+    display: inline-block;
+    margin-top: 300px;
+    margin-left: 150px;
+}
+
+.a{
+    color: rgb(48, 127, 245);
+    font-size: 80px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.b{
+    margin-top: 0px;
+}
+
+.form{
+    display: inline-block;
+    position: absolute;
+    margin-left: 200px;
+    margin-top: 340px;
+}

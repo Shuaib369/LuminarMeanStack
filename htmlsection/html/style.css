@@ -1,0 +1,19 @@
+*{
+    margin:  0px;
+    box-sizing: border-box;
+}
+
+.form-area{
+    
+    justify-content: center;
+    align-items: center;
+}
+
+.sub{
+    padding: .5rem;
+}
+
+h1{
+    font-size: 100px;
+    justify-content: center;
+}

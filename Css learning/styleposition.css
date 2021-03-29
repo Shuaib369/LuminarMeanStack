@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    margin: 0ch;
+    color: blanchedalmond;
+}
+h1{
+    color: blanchedalmond;
+    text-align: center;
+    margin: 0cm;
+}
+.container{
+    position: relative;
+
+}
+
+.one,.two,.three{
+    float: left;
+    width: 33%;
+    height: 100px;
+    background-color: cadetblue;
+    position: relative;
+}
+.two{
+    background-color: chartreuse;
+    position: relative;
+    left: 30%;
+}

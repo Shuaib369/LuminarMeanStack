@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+h1{
+    color:rgb(245, 185, 66);
+    text-align: center;
+    text-decoration: underline;
+}
+h2{
+    color:rgb(192, 219, 35)
+    
+}
+div{
+    color: cornsilk;
+    float: left;
+    width: 33%;
+    height: 700px;
+}
+img{
+    width:50%;
+}

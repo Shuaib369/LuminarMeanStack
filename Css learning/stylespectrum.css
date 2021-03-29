@@ -1,0 +1,50 @@
+body{
+    margin: 0cm;
+    background-color: rgb(24, 23, 23);
+
+}
+h1{
+    text-align: center;
+    font-family: 'Dela Gothic One', cursive;
+    color: blanchedalmond;
+}
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-around;
+    
+}
+.prop{
+    width: 100px;
+    height: 400px;
+    margin-left: 50px;
+     border:1px solid blanchedalmond;
+     border-radius: 2rem;
+}
+
+
+.one{
+    background-color:cornflowerblue;
+    position: relative;
+    left: 40px;
+    
+   
+}
+.two{
+
+    background-color: darkgrey;
+    position: relative;
+     left: 40px;
+}
+.three{
+    background-color: lightskyblue;
+    position: relative;
+    left: 40left: 40px;
+}
+.four{
+   
+    background-color: khaki;
+    position: relative;
+    left: 40left: 40px;
+}

@@ -1,0 +1,18 @@
+div{
+    width: 40% ;
+    height: 20%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: darkgreen;
+    margin-left: 200px;
+    padding: 10px;
+
+}
+#bottom{
+    display: flex;
+    margin-top: 400px;
+    padding-left: 200px;
+}
+#top{
+    padding-left: 200px;
+}
